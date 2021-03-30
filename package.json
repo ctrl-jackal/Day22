@@ -1,0 +1,20 @@
+{
+  "name": "Day22",
+  "version": "1.0.0",
+  "description": "Tasks of day22 - Arena!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrl-jackal/Day22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctrl-jackal/Day22/issues"
+  },
+  "homepage": "https://github.com/ctrl-jackal/Day22#readme"
+}
